@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:2:70-100
+		INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:3:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:4:3-77
+	android:name
+		ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:4:20-74
+application
+ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:5:3-12:17
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:11:5-130
+	android:value
+		ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:11:73-127
+	android:name
+		ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:11:16-72
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:13:3-77
+	android:name
+		ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml:13:20-74
+uses-sdk
+INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+		ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+		ADDED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\IronSource.androidlib\AndroidManifest.xml
